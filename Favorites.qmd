@@ -1,0 +1,15 @@
+---
+title: "Favorites"
+---
+
+## Favorite Pokemon Types 
+
+- Psychic
+- Fairy
+- Fighting
+
+## Favorite Pokemon Characters
+
+- Lucario
+- Vaporeon
+- Giratina
