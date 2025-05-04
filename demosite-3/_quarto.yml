@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Livi Pants"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Favorites.qmd
+
+format:
+  html:
+    theme: vapor
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#eb4897"
+    monofont: courier new
+    css: style.css
+    toc: true
+
+
+
